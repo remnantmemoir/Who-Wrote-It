@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Who Wrote It</string>
+    <string name="instructions">Masukan judul buku yang ingin anda cari. Klik Search untuk mencari penulis bukunya</string>
+    <string name="input_hint">Masukan Judul buku</string>
+    <string name="button_text">Search Books </string>
+    <string name="no_search_term">Tolong masukan judul buku</string>
+    <string name="no_network">Tolong cek koneksi internet anda dan ulang kembali</string>
+    <string name="no_results">Tidak ada hasil ditemukan</string>
+</resources>
